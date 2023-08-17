@@ -1,6 +1,7 @@
 import streamlit
 import pandas
 import requests
+import snowflake.connector
 
 streamlit.title('Hi Welcome to this world')
 streamlit.header('MENU')
